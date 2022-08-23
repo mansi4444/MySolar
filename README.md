@@ -27,9 +27,9 @@ The method a computer employs to produce a picture from a data file is known as 
 
 
 ## To Do List for the project
- - [] lessen the memory usage
- - [] camera travel
+ - [ ] lessen the memory usage
+ - [ ] camera travel
  - [x] other planets
- - [] Saturn's ring
- - [] bgm
- - [] add information about planets
+ - [x] Saturn's ring
+ - [ ] bgm
+ - [ ] add information about planets
