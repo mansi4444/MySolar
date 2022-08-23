@@ -17,7 +17,7 @@ Lighting is implemented with glLightfv(), a point light source positioned at the
 To know more about lighting in OpenGL- https://docs.microsoft.com/en-us/windows/win32/opengl/gllightfv
 
 
-## Rendering:->
+## Rendering
 The method a computer employs to produce a picture from a data file is known as rendering. The majority of 3D graphics tools are unable to instantly render an entire picture complete with all of its colours, textures, lighting, and shading. Instead, a mesh—a crude representation of an object—is handled by the user. The user produces the image when he is happy with the mesh.
 
 
