@@ -1,1 +1,1 @@
-# Solar-System-
+#MySolar - Solar System animation in OpenGL
